@@ -47,7 +47,4 @@ This project is licensed under the MIT License.
 
 Sri Jaya Vaishnavi S
 
-## Acknowledgments
----------------
 
-* [List any dependencies or libraries used in the project]
